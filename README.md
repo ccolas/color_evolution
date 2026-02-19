@@ -15,6 +15,8 @@ The html_version.html file allows to print the result in a html page using Proce
 
 This work is inspired by some parts of The Nature of Code, freely accessible here: http://natureofcode.com/book/
 
+Learn more on [my blog](https://cedriccolas.com/project/chromatic_cartography)
+
 Author: Cédric Colas
 
 Email: cdric.colas@gmail.com
